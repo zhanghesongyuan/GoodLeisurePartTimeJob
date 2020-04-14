@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 好悠闲兼职
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/GoodLeisurePartTimeJob/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+一款方便你快速找到一份适合自己的悠闲兼职求职软件平台，你可以设定和备注自己期望的兼职工作时间，帮助你高效的挣钱找工作。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/GoodLeisurePartTimeJob/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
